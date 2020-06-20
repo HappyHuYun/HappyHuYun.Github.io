@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HuYun.Me</title>
+  
+  <subtitle>匹夫囫囩</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.huyun.me/"/>
+  <updated>2020-02-28T00:28:00.000Z</updated>
+  <id>https://blog.huyun.me/</id>
+  
+  <author>
+    <name>HuYun</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>山野匹夫的不落阁</title>
+    <link href="https://blog.huyun.me/10.html"/>
+    <id>https://blog.huyun.me/10.html</id>
+    <published>2020-02-28T00:28:00.000Z</published>
+    <updated>2020-02-28T00:28:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>2020.02.28，HuYun.Me注册成功，立马挂上了博客…</p><p>规划很重要，要知道想做个什么出来！</p><p>Blog.HuYun.Me是一个纯静态的个人网站，页面空间国内部署在Coding，境外解析到Github，源系统是手机上的，Termux中的Node.js下的Hexo，当然还有其他Golang下的Hogo，因为没有涉足不会，惭愧！</p><p>这篇博文应该是带着自嘲色彩来写的吧，曾经的曾经也开过几年的个人网站，那是大学的时光，那时候的昵称”死灵魂”，应该是属于初恋被终结的生活片段，孤魂野鬼般的感觉吧！二00七年的大学毕业，个人主页也跟着遗失在时间的长河里，DieSoul.com也跟着遗失…</p><p>至今十二年了，厦门与龙海的两年，武汉的两年，然后的娶妻生子，然后的时光都留在了碧水老家这里，上老下小，平淡已经刻在了骨子里，无为成为了座右铭，清心寡欲似乎可以形容现在的我，平凡的幸福…</p><p>日记（diary）<br>相册（image）<br>生活（live）<br>游记（tour）<br>代码（code）<br>分享（share）<br>中医（zhongyi）<br>农艺（farming）<br>暂时这样来规划内容，后期再如何那就是以后需的事咯！</p><p>今日湖北省第一次发表新型冠状病毒风险评估等级，很抱歉，咱这京山县级市大红色的高风险！加油，湖北；加油，武汉；加油，京山！加油，罗店！加油，碧水！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2020.02.28，HuYun.Me注册成功，立马挂上了博客…&lt;/p&gt;
+&lt;p&gt;规划很重要，要知道想做个什么出来！&lt;/p&gt;
+&lt;p&gt;Blog.HuYun.Me是一个纯静态的个人网站，页面空间国内部署在Coding，境外解析到Github，源系统是手机上的，Termux中的No
+      
+    
+    </summary>
+    
+    
+      <category term="日记" scheme="https://blog.huyun.me/categories/diary/"/>
+    
+    
+      <category term="HuYun" scheme="https://blog.huyun.me/tags/HuYun/"/>
+    
+  </entry>
+  
+</feed>
