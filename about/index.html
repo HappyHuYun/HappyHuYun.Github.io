@@ -346,7 +346,8 @@
 
 <script>
     // 每天切换 banner 图.  Switch banner image every day.
-    $('.bg-cover').css('background-image', 'url(https://cdn.jsdelivr.net/gh/HappyHuYun/HappyHuYun.github.io/medias/banner/6.jpg)');
+    var bannerUrl = "https://cdn.jsdelivr.net/gh/HappyHuYun/HappyHuYun.github.io/medias/banner/" + new Date().getDay() + '.jpg';
+    $('.bg-cover').css('background-image', 'url(' + bannerUrl + ')');
 </script>
 
 
